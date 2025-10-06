@@ -18,3 +18,4 @@ while guess != secret_number:
         print("Too high! Try again.")
     else:
         print(f"Congratulations! You guessed it in {attempts} attempts!")
+
